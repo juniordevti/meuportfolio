@@ -1,82 +1,118 @@
-# JuniorDev TI 🚀  
-## Frontend Developer | JavaScript | HTML • CSS
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Welcome+to+my+GitHub!;Frontend+Developer;JavaScript+%7C+HTML+%7C+CSS;Building+modern+web+experiences" 
+    alt="Typing SVG"
+  />
+</p>
 
-💻 I'm a **Frontend Development student** passionate about building modern, interactive, and well-structured web experiences. I create projects **from scratch**, focusing on **planning, UI/UX design, clean code, and performance**, always aiming to deliver intuitive user interfaces.
-
-My learning journey goes beyond code. I document the **entire development process** — from idea and planning to final implementation — sharing real-world practices, tips, and project walkthroughs.
-
-📺 I share this journey on my YouTube channel **[Juniordev](https://youtube.com/@junior_devti?si=zXNhnLGar0-_CBpE)**, where I teach how to build web projects step by step.  
-📸 I also share content, updates, and insights on Instagram: **[Juniordev](https://www.instagram.com/juniorsilva_dev/)**.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,python&theme=dark" />
+</p>
 
 ---
+
+# 👋 Hi, I'm **Júniordev TI**
+
+## 🚀 Frontend Developer | JavaScript | HTML • CSS
+
+Welcome to my GitHub!  
+I'm a **frontend development student** passionate about building **modern, interactive, and well-structured web experiences**.
+
+---
+
+## 📋 About Me
+
+I'm a **dedicated Frontend Developer student**, focused on:
+
+- 🎨 Building projects **from scratch**, with strong planning and design
+- 💻 Writing **clean, performant, and maintainable code**
+- 🎯 Creating **intuitive UI/UX experiences**
+- 📚 Fully **documenting the development process**
+
+Beyond coding, I share my entire **development journey** — from idea and planning to final implementation — creating real-world tutorials and project walkthroughs on my **YouTube channel**.
+
+---
+
+## 🤖 Technologies & Languages
 
 <p align="left">
-  <!-- YouTube -->
-  <a href="https://youtube.com/@junior_devti?si=0uG33boSHoooPeBP">
-    <img 
-      alt="YouTube subscribers" 
-      title="Subscribe to my YouTube channel" 
-      src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCDMjmP57KzelZU-ZsbT7TOA?color=%23FF0000&label=Subscribe&logo=youtube&logoColor=white&style=for-the-badge&labelColor=CC0000" 
-    />
-  </a>
-
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/juniorsilva_dev/">
-    <img 
-      alt="Instagram followers" 
-      title="Instagram followers" 
-      src="https://custom-icon-badges.demolab.com/badge/Followers-4262-%23E1306C?logo=instagram&logoColor=white&style=for-the-badge&labelColor=C13584" 
-    />
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/valdernandes-j%C3%BAnior-624840243/">
-    <img 
-      alt="LinkedIn profile" 
-      title="Connect on LinkedIn" 
-      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Profile-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=004182" 
-    />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" />
 </p>
 
 ---
 
-### 🤖 Languages & Technologies
+## 🤝 Let's Connect
 
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img align="left" alt="React" title="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" alt="Next.js" title="Next.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-<img align="left" alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="Tailwind CSS" title="Tailwind CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-<img align="left" alt="SASS" title="SASS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-<img align="left" alt="PHP" title="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-<img align="left" alt="Laravel" title="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-<img align="left" alt="jQuery" title="jQuery" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<p align="left">
 
-<br/>
-<br/>
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCDMjmP57KzelZU-ZsbT7TOA?color=FF0000&label=YouTube&logo=youtube&logoColor=white&style=for-the-badge)](https://youtube.com/@junior_devti)
+
+[![Instagram](https://img.shields.io/badge/Instagram-@juniorsilva_dev-%23E1306C?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/juniorsilva_dev/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/valdernandes-j%C3%BAnior-624840243/)
+
+</p>
 
 ---
 
-### 📊 GitHub Stats
+## 💡 My Workflow
 
-<p>
+1. **Planning** – Understand requirements and define scope  
+2. **Prototyping** – Wireframes and visual structure  
+3. **Development** – Clean, scalable, and documented code  
+4. **Testing** – Functionality and responsiveness  
+5. **Deploy** – Production-ready delivery  
+6. **Documentation** – Sharing knowledge with the community  
+
+---
+
+## 🎯 Career Goal
+
+Looking for opportunities that allow me to:
+
+- 🚀 Grow as a Frontend Developer  
+- 🤝 Collaborate with great teams  
+- 💡 Work with modern technologies  
+- 📚 Contribute to open-source projects  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+</p>
+
+<p align="center">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=Juniordevti&show_icons=true&theme=tokyonight&include_all_commits=true" 
-  />
-  <img 
-    align="left" 
-    alt="Top Languages" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juniordevti&theme=tokyonight&layout=compact&langs_count=9" 
+    src="https://streak-stats.demolab.com?user=juniordevti&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+    alt="GitHub Streak"
   />
 </p>
+
+---
+
+<div align="center">
+
+### ⭐ If you find value in my work, consider starring my repositories!
+
+**Built with ❤️ by Júniordev TI**
+
+![GitHub followers](https://img.shields.io/github/followers/Juniordevti?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Juniordevti?style=social)
+
+</div>
+
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=footer" 
+  />
+</p>
+
+
 
