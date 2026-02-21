@@ -1,4 +1,9 @@
 <p align="center">
+  <a href="https://github.com/DenverCoder1">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Júniordev TI" /></a>
+</p>
+
+<p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Welcome+to+my+GitHub!;Frontend+Developer;JavaScript+%7C+HTML+%7C+CSS;Building+modern+web+experiences" 
     alt="Typing SVG"
