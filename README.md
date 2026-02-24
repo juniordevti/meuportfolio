@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,node.js&theme=dark" />
 </p>
 
 ---
