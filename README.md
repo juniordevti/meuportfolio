@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,node.js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,&theme=dark" />
 </p>
 
 ---
@@ -39,9 +39,6 @@ Beyond coding, I share my entire **development journey** — from idea and plann
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" />
 </p>
 
