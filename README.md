@@ -2,6 +2,12 @@
 <!-- 🔥 HEADER --> 
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00FFB3&center=true&vCenter=true&width=800&lines=Initializing+System...;Connecting+to+GitHub...;Frontend+Developer+Detected;Loading+Environment...;React+%7C+Next.js+%7C+TypeScript;System+Ready" /> </p>
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,git,github,vscode" /> </p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="650" />
+  
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="100" />
+</div>
+
 <!-- MATRIX --> 
 <table align="center">
 <tr>
