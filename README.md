@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Juniordevti&label=ACCESS+LOGS&color=0000FF&style=for-the-badge" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Juniordevti&label=ACCESS+LOGS&color=000000&style=for-the-badge" /> </p>
 <!-- 🔥 HEADER --> 
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00FFB3&center=true&vCenter=true&width=800&lines=Initializing+System...;Connecting+to+GitHub...;Frontend+Developer+Detected;Loading+Environment...;React+%7C+Next.js+%7C+TypeScript;System+Ready" /> </p>
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,git,github,vscode" /> </p>
