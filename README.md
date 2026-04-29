@@ -31,92 +31,109 @@
 </pre>
 </div>
 
+<div>
+
 ```bash
+$ npx frontend-dev --init
 
+> loading UI skills...
+> loading UX awareness...
+> loading component architecture...
+> loading performance mindset...
 
-$ npm run career
+[████████████████░░░░░░░░░░] 60%
 
-> frontend-developer@future start
-> loading ambition...
-> loading projects...
-> loading discipline...
-> loading real world experience...
-
-[██████████████░░░░░░░░░░░░░] 48%
-
-✔ Advanced JavaScript concepts loaded
-✔ React architecture in progress
+✔ JavaScript logic ready
+✔ React ecosystem loading
 ✔ TypeScript improving
-✔ API integration unlocked
+✔ UI/UX principles applied
 ✔ Clean Code mindset active
-
-$ current-focus
-
-> Building interfaces
-> Studying every day
-> Creating real projects
-> Evolving step by step
 ```
+
+</div>
+
 ---
 
-```md 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=%24+whoami;J%C3%BAnior+Dev+TI;%24+current_role;Frontend+Developer;%24+currently_learning;JavaScript+React+TypeScript+Next.js;%24+goal;Build+modern+web+experiences" alt="Typing SVG" /> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00FF00&center=true&vCenter=true&width=900&lines=%24+whoami;J%C3%BAnior+Dev+TI;%24+role;Frontend+Developer;%24+stack;HTML+%7C+CSS+%7C+JavaScript+%7C+TypeScript+%7C+React+%7C+Next.js;%24+status;Learning...+Building...+Evolving...;%24+mission;Build+real+and+modern+web+experiences" alt="Typing terminal" /> </p>
-````
-
-```bash
-
-$ boot --profile
-
-[ OK ] Loading frontend modules...
-[ OK ] Initializing React environment...
-[ OK ] Connecting to modern web stack...
-[ OK ] Applying clean code practices...
-[ OK ] Rendering developer profile...
-```
-
-# 👋 Hi, I'm **Júnior Dev TI**
-
-<p align="left">
-  🚀 <strong>Frontend Developer in Progress</strong>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00FF00&center=true&vCenter=true&width=900&lines=%24+whoami;Frontend+Developer;%24+focus;UI+%2F+UX+%7C+Performance+%7C+Scalability;%24+stack;HTML+CSS+JavaScript+TypeScript+React+Next.js;%24+mission;Build+fast+and+beautiful+interfaces" />
 </p>
 
 ---
 
-## ⚡ About Me
+<div>
 
-I'm a frontend developer focused on evolving every single day and building real-world applications using modern technologies.
+```bash
+$ boot --frontend
 
-### 🧠 Growth Mindset
+[ OK ] Rendering components...
+[ OK ] Styling interface...
+[ OK ] Managing state...
+[ OK ] Fetching APIs...
+[ OK ] Optimizing performance...
+```
 
-- 📚 Consistent study  
-- 💻 Hands-on projects  
-- 🔍 Deep understanding of how things work  
-- 🛠️ Applying best practices from the beginning  
+</div>
 
 ---
 
-## 🧠 Currently Learning & Improving
+# 👨‍💻 Frontend Developer
+
+<p align="center">
+  Focused on building modern, fast and scalable web interfaces.
+</p>
+
+---
+
+## ⚡ Core Focus
+
+- 🎨 Interface Design (UI)
+- 🧠 User Experience (UX)
+- ⚡ Performance Optimization
+- 🧩 Component Architecture
+- 🔗 API Integration
+
+---
+
+## 🧠 Frontend Learning Path
+
+<div>
+
 ```bash
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🧠 LEARNING CORE
+🎯 FRONTEND CORE
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-> Advanced JavaScript (closures, async, event loop)
-> React architecture & design patterns
-> TypeScript for scalable applications
-> API integration & authentication flows
-> Clean Code & project organization
+> HTML5 semantic structure
+> CSS3 (Flexbox, Grid, Responsive Design)
+> JavaScript (DOM, async, event loop)
+> TypeScript (scalable code)
+> React (hooks, patterns, architecture)
+> Next.js (SSR, routing, optimization)
+```
 
+</div>
 
+---
+
+<div>
+
+```bash
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-⚙️ SKILL MATRIX
+⚙️ FRONTEND SKILLS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Frontend:
+Structure:
   ├── HTML5        ██████████
+
+Styling:
   ├── CSS3         █████████░░
+  ├── Responsive   ████████░░
+
+Logic:
   ├── JavaScript   ████████░░
-  ├── TypeScript   █████░░░░
+  ├── TypeScript   ██████░░░░
+
+Framework:
   ├── React        ███████░░░
   └── Next.js      █████░░░░
 
@@ -124,47 +141,62 @@ Tools:
   ├── Git          █████████░░
   ├── GitHub       █████████░░
   └── VSCode       ██████████
-  ```
+```
 
+</div>
+
+---
+
+<div>
 
 ```bash
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🚀 LEARNING PROGRESS
+🚀 FRONTEND PROGRESS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-[██████████░░░░░░░░░░░░░░░░░] 50%
+[████████████░░░░░░░░░░░░░░] 55%
 
-> Studying advanced JavaScript...
-> Understanding async & closures...
-> Improving React architecture...
-> Applying clean code principles...
-> Building scalable applications...
-
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🧩 PROJECT LAB
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-> SaaS Dashboard Interface
-> Authentication System (Login / Register)
-> API Integration Projects
-> Frontend Performance Optimization
-> Responsive UI Systems
-> Real-world project simulations
-
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-💀 SYSTEM INFO
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-> user: juniordevti
-> name: Júnior Dev TI
-> role: frontend developer
-> level: evolving...
-> stack: html | css | js | ts | react | next
-> location: Brazil 🇧🇷
-> objective: become elite developer
-> mode: focus + consistency 🚀
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+> Building responsive interfaces...
+> Improving component reusability...
+> Practicing real-world UI...
+> Studying performance techniques...
+> Writing cleaner and scalable code...
 ```
+
+</div>
+
+---
+
+<div>
+
+```bash
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🧩 FRONTEND PROJECTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+> Dashboard UI (SaaS style)
+> Authentication screens (UX focused)
+> API-driven applications
+> Responsive landing pages
+> Component-based systems
+```
+
+</div>
+
+---
+
+<div>
+
+```bash
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💻 DEV STATUS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+> role: frontend developer
+> focus: ui + ux + performance
+> stack: html | css | js | ts | react | next
+> goal: build high-quality interfaces
+> mindset: consistency + execution 🚀
+```
+
+</div>
