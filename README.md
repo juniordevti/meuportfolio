@@ -23,12 +23,17 @@
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=800&color=00FF00&center=true&vCenter=true&width=1000&lines=%24+initialize+portfolio;Loading+profile...;%24+load+skills;HTML+CSS+JavaScript+TypeScript;%24+load+frameworks;React+Next.js;%24+load+mindset;Discipline+Consistency+Evolution;%24+start;System+ready" alt="Typing SVG" /> 
 </p>
 
-```bash
+<div align="center">
+<pre>
 ┌──────────────────────────────────────────────┐
 │         JUNIORDEVTI TERMINAL v1.0           │
 └──────────────────────────────────────────────┘
-```
+</pre>
+</div>
+
 ```bash
+
+
 $ npm run career
 
 > frontend-developer@future start
